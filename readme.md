@@ -4,6 +4,8 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
 
 ## Table of Contents
 
