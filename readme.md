@@ -13,7 +13,7 @@
 - [Codemods](#codemods)
 - [Articles](#articles)
 - [Talks](#talks)
-- [Support](#support)
+- [Community](#community)
 
 
 ### Tools
@@ -46,6 +46,15 @@
 - [Evolving Complex Systems Incrementally](https://www.youtube.com/watch?v=d0pOgY8__JM)
 
 
-### Support
+### Community
 
-* Discord - [#codemod](https://discordapp.com/channels/102860784329052160/103748721107292160) on [Reactiflux](http://www.reactiflux.com/)
+- [Discord](https://discordapp.com/channels/102860784329052160/103748721107292160) on [Reactiflux](http://www.reactiflux.com/)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/jscodeshift)
+- [Medium](https://medium.com/tag/codemods)
+- [Twitter](https://twitter.com/hashtag/JSCodeShift?src=hash)
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
