@@ -13,6 +13,7 @@
 - [Codemods](#codemods)
 - [Articles](#articles)
 - [Talks](#talks)
+- [Integrations](#integrations)
 - [Community](#community)
 
 
@@ -44,11 +45,16 @@
 - [Effective JavaScript Codemods](https://medium.com/@cpojer/effective-javascript-codemods-5a6686bb46fb#.jhbsdwknu)
 - [How to write a codemod](https://vramana.github.io/blog/2015/12/21/codemod-tutorial/)
 - [Codemods: Path to painless upgrades in Ember](http://vramana.github.io/blog/2016/01/13/codemods-path-to-painless-updgrade-in-ember/)
+- [NFL ♥ Codemods: Migrating a Monolith](https://medium.com/nfl-engineers/nfl-codemods-migrating-a-monolith-1e3363571707#.j8a0gw4e6)
 
 
 ### Talks
 - [Evolving Complex Systems Incrementally](https://www.youtube.com/watch?v=d0pOgY8__JM)
 - [Hiking Through the JavaScript Forest by Jamund Ferguson](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-02) (covers jscodeshift as well as eslint and babel)
+
+
+### Integrations
+- [grunt-jscodeshift](https://github.com/cowchimp/grunt-jscodeshift)
 
 
 ### Community
