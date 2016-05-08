@@ -38,6 +38,7 @@
 - [webpack-babel-codemod](https://github.com/agirton/webpack-babel-codemod) - Convert anonymous webpack commonjs require statements to es2015 import statements.
 - [lodash-to-lodash-amd-codemods](https://github.com/OliverJAsh/lodash-to-lodash-amd-codemods) - lodash to [lodash-amd](https://github.com/lodash/lodash-amd) codemods
 - [rm-debugger](https://www.npmjs.com/package/rm-debugger) - Codemod for removing `debugger;`
+- [AMD Transformer](https://bitbucket.org/atlassian/amd-codemod/src) - converts JS into AMDified JS (by Atlassian)
 
 
 ### Articles
@@ -46,6 +47,7 @@
 - [How to write a codemod](https://vramana.github.io/blog/2015/12/21/codemod-tutorial/)
 - [Codemods: Path to painless upgrades in Ember](http://vramana.github.io/blog/2016/01/13/codemods-path-to-painless-updgrade-in-ember/)
 - [NFL ♥ Codemods: Migrating a Monolith](https://medium.com/nfl-engineers/nfl-codemods-migrating-a-monolith-1e3363571707#.j8a0gw4e6)
+- [Turbocharged JavaScript refactoring with codemods (Airbnb Engineering)](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9#.iuwdhoz2v)
 
 
 ### Talks
