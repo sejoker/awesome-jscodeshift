@@ -50,6 +50,7 @@
 - [Turbocharged JavaScript refactoring with codemods (Airbnb Engineering)](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9#.iuwdhoz2v)
 - [Write Code to Rewrite Your Code: jscodeshift](https://www.toptal.com/javascript/write-code-to-rewrite-your-code)
 - [Writing your very first codemod with jscodeshift](https://medium.com/@andrew_levine/writing-your-very-first-codemod-with-jscodeshift-7a24c4ede31b#.40m46qpka)
+- [Bridging the Network Divide (Walmart Labs)](https://medium.com/walmartlabs/bridging-the-network-divide-80e2355051dc#.2y6rc5eug)
 
 
 ### Talks
