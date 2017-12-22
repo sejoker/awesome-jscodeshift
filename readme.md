@@ -52,7 +52,7 @@
 - [Writing your very first codemod with jscodeshift](https://medium.com/@andrew_levine/writing-your-very-first-codemod-with-jscodeshift-7a24c4ede31b#.40m46qpka)
 - [Bridging the Network Divide (Walmart Labs)](https://medium.com/walmartlabs/bridging-the-network-divide-80e2355051dc#.2y6rc5eug)
 - [Refactor Code in Your Lunch Break: Getting Started with Codemods](https://www.sitepoint.com/getting-started-with-codemods/)
-
+- [Codemod - Refactoring Code Programmatically - Interview with Ramana Venkata](https://survivejs.com/blog/codemod-interview/)
 
 ### Talks
 - [Evolving Complex Systems Incrementally](https://www.youtube.com/watch?v=d0pOgY8__JM)
