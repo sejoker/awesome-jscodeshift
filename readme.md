@@ -39,6 +39,7 @@
 - [lodash-to-lodash-amd-codemods](https://github.com/OliverJAsh/lodash-to-lodash-amd-codemods) - lodash to [lodash-amd](https://github.com/lodash/lodash-amd) codemods
 - [rm-debugger](https://www.npmjs.com/package/rm-debugger) - Codemod for removing `debugger;`
 - [AMD Transformer](https://bitbucket.org/atlassian/amd-codemod/src) - converts JS into AMDified JS (by Atlassian)
+- [preact-codemod](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
 
 
 ### Articles
