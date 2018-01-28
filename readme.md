@@ -40,6 +40,7 @@
 - [rm-debugger](https://www.npmjs.com/package/rm-debugger) - Codemod for removing `debugger;`
 - [AMD Transformer](https://bitbucket.org/atlassian/amd-codemod/src) - converts JS into AMDified JS (by Atlassian)
 - [preact-codemod](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
+- [mocha2ava-codemod](https://github.com/shimohq/mocha2ava-codemod) - A tranformer for migrating tests from Mocha to Ava.
 
 
 ### Articles
