@@ -62,6 +62,7 @@
 - [Evolving Complex Systems Incrementally](https://www.youtube.com/watch?v=d0pOgY8__JM)
 - [Hiking Through the JavaScript Forest by Jamund Ferguson](https://channel9.msdn.com/Blogs/seattlejs/2016-01-14-02) (covers jscodeshift as well as eslint and babel)
 - [Writing codemods to change all your code at once](https://www.youtube.com/watch?v=3upPRzn7JHU)
+- [JSCodeShift to keep your source evergreen with Web Components](https://www.youtube.com/watch?v=UF4LFNN2Ut4)
 
 
 ### Integrations
