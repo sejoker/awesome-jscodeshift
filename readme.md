@@ -58,6 +58,8 @@
 - [Refactor Code in Your Lunch Break: Getting Started with Codemods](https://www.sitepoint.com/getting-started-with-codemods/)
 - [Codemod - Refactoring Code Programmatically - Interview with Ramana Venkata](https://survivejs.com/blog/codemod-interview/)
 - [Automating the migration of lodash to lodash-es in a large codebase with jscodeshift](https://webuild.envato.com/blog/automating-the-migration-of-lodash-to-lodash-es-in-a-large-codebase-with-jscodeshift/)
+- [Automating Callbacks to Async/Await Migrations for Mocha Tests: Part 1](https://marcolabarile.me/my%20projects/2023/10/13/automating-callbacks-to-async-migration-in-mocha-tests-1/)
+- [Automating Callbacks to Async/Await Migrations for Mocha Tests: Part 2](https://marcolabarile.me/my%20projects/2023/10/19/automating-callbacks-to-async-migration-in-mocha-tests-2/)
 
 ### Talks
 - [Evolving Complex Systems Incrementally](https://www.youtube.com/watch?v=d0pOgY8__JM)
