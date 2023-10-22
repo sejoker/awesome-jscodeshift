@@ -44,6 +44,7 @@
 - [mocha2ava-codemod](https://github.com/shimohq/mocha2ava-codemod) - A tranformer for migrating tests from Mocha to Ava.
 - [undecorate-codemod](https://github.com/tizmagik/undecorate-codemod) - Transformers experimental ESNext decorators syntax to simple currying
 - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - Codemod script for Vue.js
+- [ts-codemods](https://github.com/labarilem/ts-codemods) - Collection of codemods, includes transformers for Mocha and supertest.
 
 ### Articles
 
