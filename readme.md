@@ -26,6 +26,7 @@
 - [jscodeshift-imports](https://www.npmjs.com/package/jscodeshift-imports) - A JSCodeshift extension with helpers for modifying <code>import</code> and <code>require</code> statements.
 - [jscodemigrate](https://github.com/brysgo/jscodemigrate) - Migrate your code like you do with your database.
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test codemods using [AVA](https://github.com/avajs/ava) test runner.
+- [jscodeshift-ts-template](https://github.com/labarilem/jscodeshift-ts-template) - Template repository for Typescript jscodeshift transformers.
 
 ### Codemods
 
